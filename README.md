@@ -1,6 +1,8 @@
-<h1>CEO Turnover Index</h1>
+<h1>CEO Turnover Index (Legacy Version)</h1>
 
 ![Capture](https://github.com/AsafRubin00/CEO-Turnover-Index/assets/115939423/74b01d87-ed97-4f49-b30d-3916a74777e3)
+
+<p><i><b>Note:</b> this is the first, clunky legacy version of my own dashabord that draws on data from Russell Reynolds Associate's <a href="https://www.russellreynolds.com/en/insights/reports-surveys/global-ceo-turnover-index>">CEO Turnover Index</a>. An updated version is currently development.</i></p>
 
 <p>
   I have spent over four years in the Executive Search industry with a focus on executive leadership. More specifically on Chief Executive Officers (or, CEOs). 
